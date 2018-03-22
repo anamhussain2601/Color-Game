@@ -1,0 +1,38 @@
+body{
+    background-color: #232323 
+}
+
+.square{
+    width:  30%;
+    background-color: purple;
+    padding-bottom: 30%;
+    float: left;
+    margin: 1.6%;
+}
+#container{
+    margin: 0px auto;
+    max-width: 600px;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+
+#stripe{
+    background-color: white;
+    height: 30px;
+    text-align: center;
+    color: black
+}
+h4{
+    color: wheat
+}
+
+h3,h6{
+    color: wheat
+}
+#help{
+    position: absolute;
+    left: 10px;
+}
